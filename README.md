@@ -19,3 +19,12 @@ An dem heutigen Tag habe ich damit begonnen die Grobplanung vorzunehmen, danach 
 - [ ] Beginn des Informatik projektes
 - [ ] Planung des Projektes
 
+Heute habe ich leider keins der 3 Arbeitpackete erledigen können. Grund dafür war das ich die ganze Zeit an der OBA im Modul 319 gearbeitet habe. Dies hat so lange gedauer das ich gar nicht weiter gekommen bin und die OBA noch nicht ganz fertig beendet habe da ich leider den Aufwand stark unterschätz habe. Der Beginn des Informatikprojektes und die Planung des Projektes werde ich nun für nächste Woche einplanen da ich zu diesem Zeitpunkt die OBA des Modules 319 beendet habe. (83)
+
+
+## Arbeitspakete für den 03.11.2023
+
+-  [ ] Beginn des Informatikprojektes
+-  [ ] Planung des Inforamtikprojektes
+-  [ ] Meilenstein-besprechungsdaten finden
+       
