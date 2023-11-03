@@ -28,3 +28,4 @@ Heute habe ich leider keins der 3 Arbeitpackete erledigen können. Grund dafür 
 -  [ ] Planung des Inforamtikprojektes
 -  [ ] Meilenstein-besprechungsdaten finden
        
+Heute haben wir die Planung für unser Informatikprojekt den Budgetplaner gemacht. Wir haben uns für 2 Meilensteine entschieden und haben danach für Daten entschieden bei welchen wir 
