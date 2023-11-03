@@ -24,8 +24,15 @@ Heute habe ich leider keins der 3 Arbeitpackete erledigen können. Grund dafür 
 
 ## Arbeitspakete für den 03.11.2023
 
--  [ ] Beginn des Informatikprojektes
--  [ ] Planung des Inforamtikprojektes
--  [ ] Meilenstein-besprechungsdaten finden
+-  [x] Beginn des Informatikprojektes
+-  [x] Planung des Inforamtikprojektes
+-  [x] Meilenstein-besprechungsdaten finden
        
-Heute haben wir die Planung für unser Informatikprojekt den Budgetplaner gemacht. Wir haben uns für 2 Meilensteine entschieden und haben danach für Daten entschieden bei welchen wir 
+Heute haben wir die Planung für unser Informatikprojekt den Budgetplaner gemacht. Wir haben uns für 2 Meilensteine entschieden und haben danach für Daten entschieden bei welchen wir diese besprechen möchten. Danach habe ich noch die Hausaufgaben im Module 162 erledigt.
+
+
+## Arbeitspakete für den 10.11.2023
+
+- [ ] Einarbeit in Winforms
+- [ ] Grundprogram erstellen
+- [ ] Genaue Arbeitsverteilung
