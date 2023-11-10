@@ -33,6 +33,18 @@ Heute haben wir die Planung für unser Informatikprojekt den Budgetplaner gemach
 
 ## Arbeitspakete für den 10.11.2023
 
-- [ ] Einarbeit in Winforms
-- [ ] Grundprogram erstellen
-- [ ] Genaue Arbeitsverteilung
+- [X] Einarbeit in Winforms
+- [X] Grundprogram erstellen
+- [X] Genaue Arbeitsverteilung
+
+Heute habe ich nebst den Arbeitspaketen noch Hauptsächlich am UI gearbeitet, dabei habe ich damit begonnen auf der Linken Seite ein Menu einzurichten welches via. Buttons auf die einzelnen Unterseiten verlinkt (Übersicht, Einnahmen, Ausgaben, Statisiken). Bei den einzelnen Buttons habe ich dann noch je ein Bild eingeführt damit alles schöner aussieht.
+![image](https://github.com/Entlino/Lern-Periode-2/assets/111046353/5825bd8a-8dca-481f-a7a2-7c67c7ccd76e)
+
+## Arbeitspakete für den 17.11.2023
+
+- [ ] Menu des Programmes beenden
+- [ ] Vorlage für einzelne Unterseite erstellen
+- [ ] Fensterkontrollbuttons individualisieren
+
+
+
