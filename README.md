@@ -43,9 +43,14 @@ Heute habe ich nebst den Arbeitspaketen noch Hauptsächlich am UI gearbeitet, da
 
 ## Arbeitspakete für den 17.11.2023
 
-- [ ] Menu des Programmes beenden
+- [x] Menu des Programmes beenden
 - [ ] Vorlage für einzelne Unterseite erstellen
-- [ ] Fensterkontrollbuttons individualisieren
+- [x] Fensterkontrollbuttons individualisieren
 
 
+Ich habe am Heutigen Tage das Menu welches sich bei unserem Programm auf der Linken seite befindet beendet. Zudem habe ich den Rahmen welcher von WinForms automatisch erstellt wird gelöscht und ein Panel eingefügt habe welches sich am oberen Rand befindet um das Programm herumzuziehen zu können. Der Rahmen welchen ich gelöscht habe hat dazu gefüht das ich neue Fensterkontrollbuttons einfügen musste da diese mit dem Rahmen verknüpft waren. Dies habe ich dann aber recht schneller erreicht.
+![image](https://github.com/Entlino/Lern-Periode-2/assets/111046353/2d38ba30-5014-46a3-8d74-cb408d8da501)
 
+## Arbeitspakete für den 24.11.2023 
+
+- Die definitive Planung für den 24.11.2023 folgt am Montag da wir am Montag als Gruppe schauen was es noch aufzuholen gibt und wie wir weiter verfahren.
