@@ -54,3 +54,7 @@ Ich habe am Heutigen Tage das Menu welches sich bei unserem Programm auf der Lin
 ## Arbeitspakete für den 24.11.2023 
 
 - Die definitive Planung für den 24.11.2023 folgt am Montag da wir am Montag als Gruppe schauen was es noch aufzuholen gibt und wie wir weiter verfahren.
+
+- [ ] TextBox, Button, ComboBox von Joel im UI implementieren
+- [ ] Diagramm von Mahtieu mit der Textdatei von Joel verknüpfen
+- [ ] Versuchen das verknüpfte Diagramm im UI einzubauen
