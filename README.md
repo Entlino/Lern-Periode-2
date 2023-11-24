@@ -55,6 +55,14 @@ Ich habe am Heutigen Tage das Menu welches sich bei unserem Programm auf der Lin
 
 - Die definitive Planung für den 24.11.2023 folgt am Montag da wir am Montag als Gruppe schauen was es noch aufzuholen gibt und wie wir weiter verfahren.
 
-- [ ] TextBox, Button, ComboBox von Joel im UI implementieren
+- [X] TextBox, Button, ComboBox von Joel im UI implementieren
 - [ ] Diagramm von Mahtieu mit der Textdatei von Joel verknüpfen
-- [ ] Versuchen das verknüpfte Diagramm im UI einzubauen
+- [X] Versuchen das Diagramm im UI einzubauen
+
+Im heutigen Unterricht haben wir als Gruppe daran gearbeitet, dass wir es schaffen, dass wir den Code, welchen Joel erstellt hat, in das UI implementieren können, welches ich erstellt habe. Nach längeren Lösungssuchen haben wir es jedoch schliesslich geschafft, das Programm von Joel nahezu vollständig in das UI einzuarbeiten. Da es leider immer noch das ein oder andere Problem gibt, welches wir nicht lösen konnten, funktioniert die Zusammenarbeit zwischen den beiden Programmen nicht einwandfrei. Da es dann leider zu einem zu grossen Zeitfresser geworden ist haben wir uns dazu entschieden weiter zu gehen und haben das Diagramm von Mathieu ebenfalls provisorisch ins Programm eingebaut. 
+
+## Arbeitspackete für den 01.12.2023
+
+- [ ] Ich möchte Excel vertiefen und somit auf die Modulprüfung 162 lernen
+- [ ] Ebenfalls möchte ich das Programm VisualParadigm vertiefen welches wir ebenfalls bei der Modulprüfung verwenden
+- [ ] Das Portfolie (OBA) des Modules 162 möchte ich ebenfalls beenden
