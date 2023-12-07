@@ -66,3 +66,11 @@ Im heutigen Unterricht haben wir als Gruppe daran gearbeitet, dass wir es schaff
 - [ ] Ich möchte Excel vertiefen und somit auf die Modulprüfung 162 lernen
 - [ ] Ebenfalls möchte ich das Programm VisualParadigm vertiefen welches wir ebenfalls bei der Modulprüfung verwenden
 - [ ] Das Portfolie (OBA) des Modules 162 möchte ich ebenfalls beenden
+
+##Arbeitspakete für den 08.12.2023 
+
+- [ ] Ich möchte Excel vertiefen und somit auf die Modulprüfung 162 lernen
+- [ ] Ebenfalls möchte ich das Programm VisualParadigm vertiefen welches wir ebenfalls bei der Modulprüfung verwenden
+- [ ] Das Portfolie (OBA) des Modules 162 möchte ich ebenfalls beenden
+
+Da ich ja leider am 01.12.2023 krank war habe ich mich dazu entschieden die Arbeitspakete für die nächste Woche zu verschieben da diese zu dieser Zeit immernoch relevant sind. Jedoch habe die die Arbeit aufgrund des Distanzunterricht bereits am Montag/Dienstag erledigt damit ich am Mittwoch morgen bei der Modul Prüfung 162 das gelernte anwenden kann. Folgend kommt noch ein Link zur OBA: https://portfolio.bbbaden.ch/view/view.php?t=63167b9e1b0d62b015ff 
