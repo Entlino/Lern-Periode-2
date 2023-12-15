@@ -80,3 +80,9 @@ Da ich ja leider am 01.12.2023 krank war habe ich mich dazu entschieden die Arbe
 - [ ] Advendskalender lösen
 - [ ] Datenbanken vertiefen
 - [ ] Modul-HA erledigen
+
+Am heutigen Tage habe ich mit einem neuen kleinen Projekt begonnen welches ich vorerst bis Weihnachten beenden möchte, jedoch das die möglichkeit besteht das ich dieses bis zur Semesterende noch verbessere bzw eine neue Funktion hinzufügen werde/kann. Und zwar habe ich eine Website erstellt, bei welcher man erstmals nur Tic Tac Toe spielen kann. Der Gegner ist ein Bot welcher eine random Position auswählt und dann etwas setzt. Da mir das jedoch noch zu langweilig ist habe ich mich dazu entschieden nun noch an einem Bot zu arbeitet der nicht verlieren kann. Dieser geht nach dem Prinzip vor das er alle möglichen kommenden Züge analysiert und dann den bestmöglichen auswählt und dann tätigt.
+
+## Arbeitspakete für den 22.12.2023 
+- [ ] Nie-Verlieren-Bot fertig (Bin gerade etwa in der hälfte)
+- [ ] Erstellen der Entscheidung ob man gegen den Besten oder Schlechtesten Bot spielen möchte.
