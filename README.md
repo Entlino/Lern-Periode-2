@@ -86,3 +86,12 @@ Am heutigen Tage habe ich mit einem neuen kleinen Projekt begonnen welches ich v
 ## Arbeitspakete für den 22.12.2023 
 - [ ] Nie-Verlieren-Bot fertig (Bin gerade etwa in der hälfte)
 - [ ] Erstellen der Entscheidung ob man gegen den Besten oder Schlechtesten Bot spielen möchte.
+
+
+
+
+### Reflexion
+In dieser Lernperiode habe ich immer wieder an verschiedenen Dingen gearbeitet. Aufgrund dessen war die Umsetzung des VBV nicht so einfach. Jedoch bei den einzelnen kleinen Projekten wie dem Programmierprojekt der Kantonsschule relativ angemessen. Zwischen dem Programmierprojekt und der kleinen Website, die ich am Ende erstellt habe, habe ich meistens an Aufträgen gearbeitet oder Modul-Hausaufgaben erledigt. Als Codeabgabe gebe ich nun die vorher erwähnte Website ab. Auf dieser kann man zurzeit gegen einen Bot Tic Tac Toe spielen. Der Bot ist jedoch bisher nicht ganz ausgereift, da er schlussendlich unbesiegbar sein soll. Ich habe mich für diese Unbesiegbarkeit entschieden, da ich das System dahinter sehr spannend finde. Und zwar "berechnet" der Bot die kommenden Züge und findet so den bestmöglichen Zug heraus. 
+https://entlino.github.io/Tic-Tac-Toe/
+
+**VBV:** Als Verbesserungsvorschlag habe ich mir überlegt, dass ich gerne in der nächsten Lernperiode mehr eigene Projekte machen möchte und keine von anderen Modulen oder sonstigen.
